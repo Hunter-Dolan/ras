@@ -1,6 +1,6 @@
 = ras
 
-Description goes here.
+RAS (Rails Automatic Server) is a simple gem that runs the "rails server" command and watches for changes inside your rails app. If a change is detected it automatically reloads the server.
 
 == Contributing to ras
  
